@@ -1,4 +1,4 @@
-package week1_homework
+package week1_assignment
 
 // ListNode
 /**

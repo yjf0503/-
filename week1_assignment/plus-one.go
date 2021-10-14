@@ -1,4 +1,4 @@
-package week1_homework
+package week1_assignment
 
 //加一
 func plusOne(digits []int) []int {
