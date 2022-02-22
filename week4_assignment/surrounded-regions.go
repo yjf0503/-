@@ -1,3 +1,5 @@
+package week4_assignment
+
 func solve(board [][]byte) {
 	height := len(board)
 	width := len(board[0])
